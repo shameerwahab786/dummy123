@@ -1,4 +1,6 @@
 #include<stdio.h>
 int main{
-    printf("hello..!");
+    
+    printf("hello..!"); //this is just a print statement
+
 }
