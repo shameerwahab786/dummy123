@@ -2,7 +2,7 @@
 
 int factorial(int number)
 {
-    // TODO:- Your logic here
+    // TODO:-
     int fact=1;
     if(number<0){
     	return -1;
